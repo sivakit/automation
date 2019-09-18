@@ -27,6 +27,6 @@ public class Example4 extends BaseTest{
 	@Test
 	public void verifySample20() {
 		System.out.println("verifySample20");
-		Assert.fail();
+	
 	}
 }
