@@ -23,7 +23,7 @@ public class Example3 extends BaseTest{
 	@Test
 	public void verifySample14() {
 		System.out.println("verifySample14");
-		Assert.fail();
+
 	}
 	@Test
 	public void verifySample15() {
