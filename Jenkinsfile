@@ -16,7 +16,7 @@ pipeline {
 				checkout scm
 				
 				script{
-					bat(/mvn clean  test /)
+					bat(/C:\Users\Siva Reddy\Downloads\apache-maven-3.6.2-bin\apache-maven-3.6.2\mvn clean  test /)
 				}
 				
 				step([$class : 'Publisher', reportFilenamePattern : '**/testng-results.xml'])
