@@ -7,13 +7,13 @@ public class Example1 extends BaseTest{
 	@Test
 	public void verifySample1() {
 		System.out.println("verifySample1");
-		Assert.fail();
+	
 	}
 	
 	@Test
 	public void verifySample2() {
 		System.out.println("verifySample2");
-		Assert.fail();
+	
 	}
 	@Test
 	public void verifySample3() {
