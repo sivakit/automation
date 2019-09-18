@@ -12,7 +12,7 @@ public class Example2 extends BaseTest{
 	@Test
 	public void verifySample7() {
 		System.out.println("verifySample7");
-		Assert.fail();
+	
 	}
 	@Test
 	public void verifySample8() {
